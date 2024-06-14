@@ -1,35 +1,7 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/Aboudoc/Uniswap-v3.git">
-    <img src="images/logo1.png" alt="Logo" width="100" height="80">
-  </a>
-
-<h3 align="center">Uniswap V3</h3>
-
-  <p align="center">
-    Uniswap V3
-    <br />
-    <a href="https://github.com/Aboudoc/Uniswap-v3"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/Aboudoc/Uniswap-v3">View Demo</a>
-    ·
-    <a href="https://github.com/Aboudoc/Uniswap-v3/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Aboudoc/Uniswap-v3/issues">Request Feature</a>
-  </p>
-</div>
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
